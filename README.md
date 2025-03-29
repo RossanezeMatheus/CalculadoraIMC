@@ -4,7 +4,7 @@
 Este aplicativo calcula o Índice de Massa Corporal (IMC) com base no peso e altura informados pelo usuário. Além do cálculo, o app exibe a classificação do IMC e um feedback personalizado de acordo com a faixa de peso do usuário
 
 ## 👨‍🎓 Informações do Aluno
-- **Nome:** Matheus Rossaneze  
+- **Nome:** Matheus Rossaneze Ramos Silva 
 - **Curso:** Ciência da Computação  
 - **RA:** 24026354
 
