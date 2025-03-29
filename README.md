@@ -15,5 +15,5 @@ Este aplicativo calcula o Índice de Massa Corporal (IMC) com base no peso e alt
 
 ## 📂 Estrutura do Repositório
 - **Código-fonte:** Todo o código do projeto.
-- **`CalculadoraIMC.apk`**: Arquivo APK do app.
-- **`CalculadoraIMC.zip`**: Arquivo compactado com o projeto completo.
+- **`APK`**: Arquivo APK do app.
+- **`Projeto Compactado`**: Arquivo compactado com o projeto completo.
